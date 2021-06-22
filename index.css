@@ -1,10 +1,11 @@
 body{
   background-color: grey;
+  background-image: url("https://thumbs.dreamstime.com/b/earth-globus-map-d-globe-icon-world-symbol-blue-green-color-isolated-white-background-individual-continents-geography-176605014.jpg")
 }
 
 h1{
   font-family: helvetica;
-  color: blue;
+  color: black;
   font-size: 40px;
 }
 
